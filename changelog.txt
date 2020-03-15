@@ -1,1 +1,27 @@
-See http://stefangabos.ro/other-projects/list-of-world-countries-with-national-flags/#changelog
+CHANGELOG
+=========
+
+  * CHANGELOG
+  * Changes: from -> to, in brackets: date assigned by ISO 3166 Archive of Changes
+  * @see https://isotc.iso.org/livelink/livelink?func=ll&objId=16474544&objAction=browse&sort=name&viewType=1
+  *
+  * # 2020-03-15
+  * Cape Verde -> Cabo Verde (2014-03-04)
+  * Holy See (Vatican City State) -> Holy See (2014-12-18)
+  * Heiliger Stuhl (Vatikanstadt) -> Heiliger Stuhl
+  * United States -> United States of America (2014-12-18)
+  * Vereinigte Staaten (USA) -> Vereinigte Staaten von Amerika (USA)
+  * Czech Republic -> Czechia (2016-09-28)
+  * Tschechien (Tschechische Republik) -> Tschechien
+  * Libyan Arab Jamahiriya -> Libya (2018-02-05)
+  * Swaziland -> Eswatini (2018-07-16)
+  * Swasiland -> Eswatini
+  * Macedonia, The former Yugoslav Republic of -> North Macedonia (13.03.2019)
+  * Mazedonien -> Nordmazedonien
+
+COMMENTS
+========
+
+# 2020-03-15
++ 'United Kingom' NOT CHANGED TO 'United Kingdom of Great Britain and Northern Ireland'
++ 'Kosovo' not included in ISO 3166 list.
